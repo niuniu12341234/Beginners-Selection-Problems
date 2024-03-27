@@ -11,7 +11,7 @@ elif ans1 == "wait":
         ans3 = input("You're at a crossroads.\nDo you go left, right, or straight? (left/right/straight)\n>>")
         if ans3 == "left":
             print ("You are trampled by a herd of wildebeest. Game over.")
-        elif ans3 == "straght":
+        elif ans3 == "straight":
             print ("You get stung by a poisonous wasp. Game over.")
         elif ans3 == "right":
             print ("You march on and find the buried treasure! Yippee!!")
