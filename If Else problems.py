@@ -15,3 +15,4 @@ elif ans1 == "wait":
             print ("You get stung by a poisonous wasp. Game over.")
         elif ans3 == "right":
             print ("You march on and find the buried treasure! Yippee!!")
+print ("Thanks for playing:)")
